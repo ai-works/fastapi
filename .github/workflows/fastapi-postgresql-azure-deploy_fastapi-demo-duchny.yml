@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'fastapi-demo-duchny'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_e1d7ef7d98454c07a909b425448a2f44 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_146cb78525174f879bb3401c85476e30 }}
